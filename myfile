@@ -1,0 +1,4 @@
+file '/myfile' d0
+contenet 'my first file in git'
+action :create
+end
